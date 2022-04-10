@@ -49,7 +49,6 @@ Thumbs.db
 *.wmv
 
 *.npz
-*.txt
 *.csv
 *.config
 *.graph
@@ -58,4 +57,3 @@ Thumbs.db
 *.sqlite
 *.json
 *.graph
-*.log

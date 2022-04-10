@@ -1,0 +1,670 @@
+LESSOPEN=| /usr/bin/lesspipe %s
+CONDA_PROMPT_MODIFIER=(unified_env) 
+USER=USER
+SSH_CLIENT=10.134.138.106 63021 22
+LC_TIME=zh_CN.UTF-8
+XDG_SESSION_TYPE=tty
+CUDA_INSTALL_PATH=/usr/local/cuda
+SHLVL=0
+LD_LIBRARY_PATH=:/usr/local/cuda/lib64:/usr/local/cuda/lib:/home/USER/anaconda3/lib
+MOTD_SHOWN=pam
+HOME=/home/USER
+CONDA_SHLVL=2
+OLDPWD=/home/USER/gnn-analysis/SC-data/CoGNN
+SSH_TTY=/dev/pts/14
+MODULEPATH_modshare=/etc/environment-modules/modules:1:/usr/share/modules/$MODULE_VERSION/modulefiles:1:/usr/share/modules/modulefiles:1:/usr/share/modules/versions:1
+MODULES_CMD=/usr/lib/x86_64-linux-gnu/modulecmd.tcl
+LC_MONETARY=zh_CN.UTF-8
+ENV=/usr/share/modules/init/profile.sh
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus
+_CE_M=
+LOGNAME=USER
+_=./collect_environment.sh
+XDG_SESSION_CLASS=user
+TERM=xterm
+XDG_SESSION_ID=453
+_CE_CONDA=
+PATH=/home/USER/.local/bin:/home/USER/anaconda3/envs/unified_env/bin:/home/USER/anaconda3/condabin:/usr/local/NVIDIA-Nsight-Compute:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:$/usr/local/cuda/bin:/usr/local/cuda/bin:/usr/local/cuda/lib64:/usr/local/cuda/nsight-systems/bin
+LC_ADDRESS=zh_CN.UTF-8
+XDG_RUNTIME_DIR=/run/user/1003
+DISPLAY=localhost:19.0
+LANG=en_US.UTF-8
+LC_TELEPHONE=zh_CN.UTF-8
+CONDA_PREFIX_1=/home/USER/anaconda3
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+CONDA_PYTHON_EXE=/home/USER/anaconda3/bin/python
+SHELL=/bin/bash
+LC_NAME=zh_CN.UTF-8
+LESSCLOSE=/usr/bin/lesspipe %s %s
+CONDA_DEFAULT_ENV=unified_env
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_IDENTIFICATION=zh_CN.UTF-8
+BASH_ENV=/usr/share/modules/init/bash
+PWD=/home/USER/gnn-analysis/SC-data
+LOADEDMODULES=
+CONDA_EXE=/home/USER/anaconda3/bin/conda
+SSH_CONNECTION=10.134.138.106 63021 10.254.46.18 22
+LC_NUMERIC=zh_CN.UTF-8
+CONDA_PREFIX=/home/USER/anaconda3/envs/unified_env
+LC_PAPER=zh_CN.UTF-8
+CPATH=/usr/local/cuda/include:
+MANPATH=:
+MODULEPATH=/etc/environment-modules/modules:/usr/share/modules/versions:/usr/share/modules/$MODULE_VERSION/modulefiles:/usr/share/modules/modulefiles
+MODULESHOME=/usr/share/modules
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.2 LTS
+Release:	20.04
+Codename:	focal
+Linux gpu4 5.4.0-77-generic #86-Ubuntu SMP Thu Jun 17 02:35:03 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   46 bits physical, 48 bits virtual
+CPU(s):                          28
+On-line CPU(s) list:             0-27
+Thread(s) per core:              1
+Core(s) per socket:              14
+Socket(s):                       2
+NUMA node(s):                    2
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           79
+Model name:                      Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+Stepping:                        1
+CPU MHz:                         1596.358
+CPU max MHz:                     3300.0000
+CPU min MHz:                     1200.0000
+BogoMIPS:                        4789.19
+Virtualization:                  VT-x
+L1d cache:                       896 KiB
+L1i cache:                       896 KiB
+L2 cache:                        7 MiB
+L3 cache:                        70 MiB
+NUMA node0 CPU(s):               0-13
+NUMA node1 CPU(s):               14-27
+Vulnerability Itlb multihit:     KVM: Vulnerable
+Vulnerability L1tf:              Mitigation; PTE Inversion
+Vulnerability Mds:               Vulnerable: Clear CPU buffers attempted, no microcode; SMT disabled
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Vulnerable
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Vulnerable: Clear CPU buffers attempted, no microcode; SMT disabled
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single pti intel_ppin tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm rdt_a rdseed adx smap intel_pt xsaveopt cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts
+MemTotal:       396139056 kB
+MemFree:        303722480 kB
+MemAvailable:   389184596 kB
+Buffers:         2273992 kB
+Cached:         81897564 kB
+SwapCached:            0 kB
+Active:         33710708 kB
+Inactive:       53628236 kB
+Active(anon):    3140632 kB
+Inactive(anon):     6128 kB
+Active(file):   30570076 kB
+Inactive(file): 53622108 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               532 kB
+Writeback:             0 kB
+AnonPages:       3166476 kB
+Mapped:           722672 kB
+Shmem:              7888 kB
+KReclaimable:    3906456 kB
+Slab:            4567604 kB
+SReclaimable:    3906456 kB
+SUnreclaim:       661148 kB
+KernelStack:       20816 kB
+PageTables:        31368 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    200166676 kB
+Committed_AS:   15290324 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      308276 kB
+VmallocChunk:          0 kB
+Percpu:            44032 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:     53248 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     2162964 kB
+DirectMap2M:    54335488 kB
+DirectMap1G:    348127232 kB
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+loop0    7:0    0         0 loop 
+loop1    7:1    0         0 loop 
+loop2    7:2    0         0 loop 
+loop3    7:3    0         0 loop 
+loop4    7:4    0         0 loop 
+loop5    7:5    0         0 loop 
+loop6    7:6    0         0 loop 
+loop7    7:7    0         0 loop 
+sda      8:0    0 745.2G  0 disk 
+├─sda1   8:1    0   512M  0 part /boot/efi
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0 744.7G  0 part /
+sdb      8:16   0   1.8T  0 disk 
+└─sdb1   8:17   0   1.8T  0 part /ssd
+Sat Apr  9 16:44:47 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 460.80       Driver Version: 460.80       CUDA Version: 11.2     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  Off  | 00000000:06:00.0 Off |                    0 |
+| N/A   30C    P0    24W / 250W |      8MiB / 32510MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla V100-PCIE...  Off  | 00000000:84:00.0 Off |                    0 |
+| N/A   24C    P0    24W / 250W |      8MiB / 32510MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      1475      G   /usr/lib/xorg/Xorg                  4MiB |
+|    1   N/A  N/A      1475      G   /usr/lib/xorg/Xorg                  4MiB |
++-----------------------------------------------------------------------------+
+H/W path         Device       Class          Description
+========================================================
+                              system         Computer
+/0                            bus            Motherboard
+/0/6                          memory         384GiB System memory
+/0/7                          processor      Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+/0/8                          processor      Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz
+/0/100                        bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2
+/0/100/1                      bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 1
+/0/100/2                      bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/2/0       eno1         network        I350 Gigabit Network Connection
+/0/100/2/0.1     eno2         network        I350 Gigabit Network Connection
+/0/100/2.1                    bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/2.2                    bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/100/3                      bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/100/3/0                    display        GV100GL [Tesla V100 PCIe 32GB]
+/0/100/4                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+/0/100/4.1                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+/0/100/4.2                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+/0/100/4.3                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+/0/100/4.4                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+/0/100/4.5                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+/0/100/4.6                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+/0/100/4.7                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+/0/100/5                      generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management
+/0/100/5.1                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug
+/0/100/5.2                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors
+/0/100/5.4                    generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+/0/100/11                     generic        C610/X99 series chipset SPSR
+/0/100/11.4                   storage        C610/X99 series chipset sSATA Controller [AHCI mode]
+/0/100/16                     communication  C610/X99 series chipset MEI Controller #1
+/0/100/16.1                   communication  C610/X99 series chipset MEI Controller #2
+/0/100/1a                     bus            C610/X99 series chipset USB Enhanced Host Controller #2
+/0/100/1c                     bridge         C610/X99 series chipset PCI Express Root Port #1
+/0/100/1c.3                   bridge         C610/X99 series chipset PCI Express Root Port #4
+/0/100/1c.3/0                 bridge         AST1150 PCI-to-PCI Bridge
+/0/100/1c.3/0/0               display        ASPEED Graphics Family
+/0/100/1d                     bus            C610/X99 series chipset USB Enhanced Host Controller #1
+/0/100/1f                     bridge         C610/X99 series chipset LPC Controller
+/0/100/1f.2                   storage        C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+/0/100/1f.3                   bus            C610/X99 series chipset SMBus Controller
+/0/9                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/a                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/b                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/c                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/d                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/e                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/f                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/10                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/11                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/12                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug
+/0/13                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/14                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/15                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/16                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/17                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/18                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/19                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/1f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/20                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/21                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/22                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/23                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/24                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/25                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/26                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/27                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/28                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/29                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/2a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/2d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/2e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/2f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/30                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/31                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/32                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/33                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/34                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/35                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast
+/0/36                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/37                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+/0/38                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+/0/39                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+/0/3a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+/0/3b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/3f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/40                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/41                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/42                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/43                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast
+/0/44                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/45                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+/0/46                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+/0/47                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+/0/48                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+/0/49                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/4d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/4e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/4f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/50                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/51                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/52                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/53                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/0                          bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 0
+/0/1                          bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 1
+/0/2                          bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2
+/0/3                          bridge         Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3
+/0/3/0                        display        GV100GL [Tesla V100 PCIe 32GB]
+/0/4                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+/0/4.1                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+/0/4.2                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+/0/4.3                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+/0/4.4                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+/0/4.5                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+/0/4.6                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+/0/4.7                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+/0/5                          generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management
+/0/5.1                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug
+/0/5.2                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors
+/0/5.4                        generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+/0/54                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/55                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/56                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+/0/57                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/58                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/59                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+/0/5a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+/0/5d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug
+/0/5e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/5f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/60                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/61                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/62                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/63                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/64                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/65                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/66                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/67                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/68                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/69                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/6f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/70                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/71                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/72                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+/0/73                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/74                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+/0/75                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/76                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/77                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+/0/78                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/79                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+/0/7a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/7b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+/0/7c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/7d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+/0/7e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/7f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+/0/80                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast
+/0/81                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/82                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+/0/83                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+/0/84                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+/0/85                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+/0/86                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/87                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/88                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/89                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+/0/8a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/8b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+/0/8c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/8d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+/0/8e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast
+/0/8f                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast
+/0/90                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+/0/91                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+/0/92                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+/0/93                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+/0/94                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/95                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/96                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/97                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+/0/98                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/99                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9a                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9b                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9c                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9d                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9e                         generic        Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+/0/9f                         system         PnP device PNP0b00
+/0/a0                         system         PnP device PNP0c02
+/0/a1                         system         PnP device PNP0c02
+/0/a2                         communication  PnP device PNP0501
+/1               veth2097335  network        Ethernet interface
+/2               veth4c96ee7  network        Ethernet interface
+Package                            Version
+---------------------------------- -------------------
+alabaster                          0.7.12
+anaconda-client                    1.7.2
+anaconda-navigator                 2.0.3
+anaconda-project                   0.9.1
+anyio                              2.2.0
+appdirs                            1.4.4
+argh                               0.26.2
+argon2-cffi                        20.1.0
+ase                                3.22.0
+asn1crypto                         1.4.0
+astroid                            2.5
+astropy                            4.2.1
+astunparse                         1.6.3
+async-generator                    1.10
+atomicwrites                       1.4.0
+attrs                              20.3.0
+autopep8                           1.5.6
+Babel                              2.9.0
+backcall                           0.2.0
+backports.functools-lru-cache      1.6.4
+backports.shutil-get-terminal-size 1.0.0
+backports.tempfile                 1.0
+backports.weakref                  1.0.post1
+beautifulsoup4                     4.9.3
+bitarray                           2.1.0
+bkcharts                           0.2
+black                              19.10b0
+bleach                             3.3.0
+bokeh                              2.3.2
+boto                               2.49.0
+Bottleneck                         1.3.2
+brotlipy                           0.7.0
+certifi                            2020.12.5
+cffi                               1.14.5
+chardet                            4.0.0
+charset-normalizer                 2.0.4
+click                              7.1.2
+cloudpickle                        1.6.0
+clyent                             1.2.2
+colorama                           0.4.4
+conda                              4.10.3
+conda-build                        3.21.4
+conda-content-trust                0+unknown
+conda-package-handling             1.7.3
+conda-repo-cli                     1.0.4
+conda-token                        0.3.0
+conda-verify                       3.4.2
+contextlib2                        0.6.0.post1
+cryptography                       3.4.7
+cycler                             0.10.0
+Cython                             0.29.23
+cytoolz                            0.11.0
+dask                               2021.4.0
+decorator                          5.0.6
+defusedxml                         0.7.1
+dgl                                0.7.0
+diff-match-patch                   20200713
+distributed                        2021.4.1
+docutils                           0.17.1
+entrypoints                        0.3
+et-xmlfile                         1.0.1
+fastcache                          1.1.0
+filelock                           3.0.12
+flake8                             3.9.0
+Flask                              1.1.2
+fsspec                             0.9.0
+future                             0.18.2
+gevent                             21.1.2
+glob2                              0.7
+gmpy2                              2.0.8
+googledrivedownloader              0.4
+greenlet                           1.0.0
+h5py                               2.10.0
+HeapDict                           1.0.1
+html5lib                           1.1
+idna                               2.10
+imageio                            2.9.0
+imagesize                          1.2.0
+importlib-metadata                 3.10.0
+iniconfig                          1.1.1
+intervaltree                       3.1.0
+ipykernel                          5.3.4
+ipython                            7.22.0
+ipython-genutils                   0.2.0
+ipywidgets                         7.6.3
+isodate                            0.6.0
+isort                              5.8.0
+itsdangerous                       1.1.0
+jdcal                              1.4.1
+jedi                               0.17.2
+jeepney                            0.6.0
+Jinja2                             2.11.3
+joblib                             1.0.1
+json5                              0.9.5
+jsonschema                         3.2.0
+jupyter                            1.0.0
+jupyter-client                     6.1.12
+jupyter-console                    6.4.0
+jupyter-core                       4.7.1
+jupyter-packaging                  0.7.12
+jupyter-server                     1.4.1
+jupyterlab                         3.0.14
+jupyterlab-pygments                0.1.2
+jupyterlab-server                  2.4.0
+jupyterlab-widgets                 1.0.0
+keyring                            22.3.0
+kiwisolver                         1.3.1
+lazy-object-proxy                  1.6.0
+libarchive-c                       2.9
+llvmlite                           0.36.0
+lxml                               4.6.3
+MarkupSafe                         1.1.1
+matplotlib                         3.3.4
+mccabe                             0.6.1
+mistune                            0.8.4
+mkl-fft                            1.3.0
+mkl-random                         1.2.1
+mkl-service                        2.3.0
+mock                               4.0.3
+more-itertools                     8.7.0
+mpmath                             1.2.1
+msgpack                            1.0.2
+multipledispatch                   0.6.0
+mypy-extensions                    0.4.3
+navigator-updater                  0.2.1
+nbclassic                          0.2.6
+nbclient                           0.5.3
+nbconvert                          6.0.7
+nbformat                           5.1.3
+nest-asyncio                       1.5.1
+networkx                           2.5
+nltk                               3.6.1
+nose                               1.3.7
+notebook                           6.3.0
+numba                              0.53.1
+numexpr                            2.7.3
+numpy                              1.20.1
+numpydoc                           1.1.0
+olefile                            0.46
+openpyxl                           3.0.7
+packaging                          20.9
+pandas                             1.2.4
+pandocfilters                      1.4.3
+parso                              0.7.0
+partd                              1.2.0
+path                               15.1.2
+pathlib2                           2.3.5
+pathspec                           0.7.0
+patsy                              0.5.1
+pep8                               1.7.1
+pexpect                            4.8.0
+pickleshare                        0.7.5
+Pillow                             8.2.0
+pip                                21.0.1
+pkginfo                            1.7.0
+pluggy                             0.13.1
+ply                                3.11
+prometheus-client                  0.10.1
+prompt-toolkit                     3.0.17
+psutil                             5.8.0
+ptyprocess                         0.7.0
+py                                 1.10.0
+pycodestyle                        2.6.0
+pycosat                            0.6.3
+pycparser                          2.20
+pycurl                             7.43.0.6
+pydocstyle                         6.0.0
+pyerfa                             1.7.3
+pyflakes                           2.2.0
+Pygments                           2.8.1
+pylint                             2.7.4
+pyls-black                         0.4.6
+pyls-spyder                        0.3.2
+pyodbc                             4.0.0-unsupported
+pyOpenSSL                          20.0.1
+pyparsing                          2.4.7
+pyrsistent                         0.17.3
+PySocks                            1.7.1
+pytest                             6.2.3
+python-dateutil                    2.8.1
+python-jsonrpc-server              0.4.0
+python-language-server             0.36.2
+python-louvain                     0.15
+pytz                               2021.1
+PyWavelets                         1.1.1
+pyxdg                              0.27
+PyYAML                             5.4.1
+pyzmq                              20.0.0
+QDarkStyle                         2.8.1
+QtAwesome                          1.0.2
+qtconsole                          5.0.3
+QtPy                               1.9.0
+rdflib                             6.0.2
+regex                              2021.4.4
+requests                           2.25.1
+rope                               0.18.0
+Rtree                              0.9.7
+ruamel-yaml-conda                  0.15.100
+scikit-image                       0.18.1
+scikit-learn                       0.24.1
+scipy                              1.6.2
+seaborn                            0.11.1
+SecretStorage                      3.3.1
+Send2Trash                         1.5.0
+setuptools                         52.0.0.post20210125
+simplegeneric                      0.8.1
+singledispatch                     0.0.0
+sip                                4.19.13
+six                                1.15.0
+sniffio                            1.2.0
+snowballstemmer                    2.1.0
+sortedcollections                  2.1.0
+sortedcontainers                   2.3.0
+soupsieve                          2.2.1
+Sphinx                             4.0.1
+sphinxcontrib-applehelp            1.0.2
+sphinxcontrib-devhelp              1.0.2
+sphinxcontrib-htmlhelp             1.0.3
+sphinxcontrib-jsmath               1.0.1
+sphinxcontrib-qthelp               1.0.3
+sphinxcontrib-serializinghtml      1.1.4
+sphinxcontrib-websupport           1.2.4
+spyder                             4.2.5
+spyder-kernels                     1.10.2
+SQLAlchemy                         1.4.15
+statsmodels                        0.12.2
+sympy                              1.8
+tables                             3.6.1
+tblib                              1.7.0
+terminado                          0.9.4
+testpath                           0.4.4
+textdistance                       4.2.1
+threadpoolctl                      2.1.0
+three-merge                        0.1.1
+tifffile                           2020.10.1
+toml                               0.10.2
+toolz                              0.11.1
+torch                              1.8.0a0+56b43f4
+torch-geometric                    1.7.0
+torch-scatter                      2.0.7
+torch-sparse                       0.6.10
+torchsummary                       1.5.1
+tornado                            6.1
+tqdm                               4.59.0
+traitlets                          5.0.5
+typed-ast                          1.4.2
+typing-extensions                  3.7.4.3
+ujson                              4.0.2
+unicodecsv                         0.14.1
+urllib3                            1.26.4
+watchdog                           1.0.2
+wcwidth                            0.2.5
+webencodings                       0.5.1
+Werkzeug                           1.0.1
+wheel                              0.36.2
+widgetsnbextension                 3.5.1
+wrapt                              1.12.1
+wurlitzer                          2.1.0
+xlrd                               2.0.1
+XlsxWriter                         1.3.8
+xlwt                               1.3.0
+xmltodict                          0.12.0
+yapf                               0.31.0
+zict                               2.0.0
+zipp                               3.4.1
+zope.event                         4.5.0
+zope.interface                     5.3.0
