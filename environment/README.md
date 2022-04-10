@@ -12,7 +12,7 @@ This folder contains the execution environment and softwares to be installed fro
 
 - dgl: 
     - [Github](https://github.com/dmlc/dgl/tree/v0.7.0)
-    - [DGL Install](https://docs.dgl.ai/en/0.7.x/install/)
+    - [Install](https://docs.dgl.ai/en/0.7.x/install/)
 
 - pytorch\_sparse:
     - [Github](https://github.com/rusty1s/pytorch_sparse/tree/0.6.10)

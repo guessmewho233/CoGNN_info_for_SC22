@@ -1,4 +1,4 @@
-# MPS
+# CoGNN
 
 This folder contains `CoGNN` code.
 
