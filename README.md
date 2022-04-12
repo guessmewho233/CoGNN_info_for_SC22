@@ -1,5 +1,7 @@
 # CoGNN
 
+[![DOI](https://zenodo.org/badge/479964610.svg)](https://zenodo.org/badge/latestdoi/479964610)
+
 ## Experiment data
 
 Directory: data
