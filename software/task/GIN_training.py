@@ -14,7 +14,7 @@ def import_func(model, graph):
     def train(model, graph):
         print(threading.currentThread().getName(),
             'GIN training {} >>>>>>>>>>'.format(graph.name), time.time())
-        before_time = time.time()
+#        before_time = time.time()
         model = model.cuda()
         features = graph.features.cuda(non_blocking=True)
         labels = graph.labels.cuda(non_blocking=True)
@@ -31,7 +31,7 @@ def import_func(model, graph):
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
-        training_time = time.time() - before_time
+#        training_time = time.time() - before_time
 #            print('GIN {} Epoch {:05d}'.format(graph.name, epoch))
 #        return training_time * 1000
         return loss.item()

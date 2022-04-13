@@ -14,7 +14,7 @@ def import_func(model, graph):
     def train(model, graph):
         print(threading.currentThread().getName(),
             'GAT training {} >>>>>>>>>>'.format(graph.name), time.time())
-        before_time = time.time()
+#        before_time = time.time()
         model = model.cuda()
         features = graph.features.cuda(non_blocking=True)
         labels = graph.labels.cuda(non_blocking=True)
