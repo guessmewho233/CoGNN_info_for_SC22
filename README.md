@@ -20,4 +20,4 @@ Read software/README.md for more information.
 
 ## DOI by Zenodo
 
-https://doi.org/10.5281/zenodo.6433615
+https://doi.org/10.5281/zenodo.6586262
