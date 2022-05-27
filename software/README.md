@@ -8,10 +8,12 @@ Add the path to this folder to `PYTHONPATH`.
 
 ## Usage
 
-- Compile PyTorch for `CoGNN`, `PipeSwitch` or `MPS`. `CoGNN` and `PipeSwitch` could use the same modified PyTorch.
+- Compile PyTorch for `CoGNN`, `PipeSwitch`, `MPS`, or `Default`. `CoGNN` and `PipeSwitch` could use the same modified PyTorch.
 
 - For `CoGNN` and `PipeSwitch`, start the server first. After a few seconds, start the client to send requests.
 
 - For `MPS`, enable the MPS server and run the execution script.
+
+- For `Default`, directly run the execution script.
 
 More details are included in README under folders for each system.
